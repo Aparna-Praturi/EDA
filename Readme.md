@@ -1,8 +1,8 @@
-#  EduScope — Global Education Insights Dashboard
+#  EduScope — Global Education Insights 
+A comprehensive analysis of global education data to identify key trends, disparities, and potential areas for improvement in educational systems worldwide. 
 
 **Exploratory Data Analysis on World Bank Education Statistics (1960–2022)**  
 
-EduScope presents a comprehensive exploration of **global primary education indicators** using data from the **World Bank’s EdStats Series**.  
 The project combines **multi-decade data cleaning**, **correlation-based feature reduction**, and **cross-regional analysis** to identify patterns in enrollment, teacher availability, and learning outcomes worldwide.  
 Insights are visualized interactively through a **Power BI dashboard** for region-wise comparison.
 
