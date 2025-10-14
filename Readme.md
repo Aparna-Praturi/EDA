@@ -119,7 +119,7 @@ Final selected indicators:
 
 - Produced a region-level dataset used as input to the Power BI dashboard
 
-6️⃣ Exploratory Data Analysis
+## Exploratory Data Analysis
 
 - Compared gender differences in enrollment and survival rates
 
@@ -155,7 +155,7 @@ Trend lines for Net Enrollment Rate (1990–2010)
 
 - Bubble chart: Female Teacher % vs. Survival Rate (bubble size = GDP)
 
-  ![Dashboard screenshot](
+  ![Dashboard screenshot](Dashboard%20screengrab.png)
 
 ##  Tools & Technologies
 | **Task** | **Tools / Libraries** |
