@@ -155,6 +155,8 @@ Trend lines for Net Enrollment Rate (1990–2010)
 
 - Bubble chart: Female Teacher % vs. Survival Rate (bubble size = GDP)
 
+  ![Dashboard screenshot](
+
 ##  Tools & Technologies
 | **Task** | **Tools / Libraries** |
 |-----------|-----------------------|
